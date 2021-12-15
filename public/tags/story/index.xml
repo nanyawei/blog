@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NAN</title>
-    <link>https://nan.shiasn.com/</link>
-    <description>Recent content on NAN</description>
+    <title>story on NAN</title>
+    <link>https://nan.shiasn.com/tags/story/</link>
+    <description>Recent content in story on NAN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Dec 2021 16:08:19 +0800</lastBuildDate><atom:link href="https://nan.shiasn.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 16:08:19 +0800</lastBuildDate><atom:link href="https://nan.shiasn.com/tags/story/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wyn</title>
       <link>https://nan.shiasn.com/posts/wyn/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://nan.shiasn.com/posts/wyn/</guid>
       <description> 这是一只大可爱&amp;nbsp;¶ 这是一只小可爱&amp;nbsp;¶ </description>
-    </item>
-    
-    <item>
-      <title>发财</title>
-      <link>https://nan.shiasn.com/posts/first/</link>
-      <pubDate>Wed, 15 Dec 2021 03:43:44 +0800</pubDate>
-      
-      <guid>https://nan.shiasn.com/posts/first/</guid>
-      <description></description>
     </item>
     
   </channel>
